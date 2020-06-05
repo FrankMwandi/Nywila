@@ -1,6 +1,6 @@
 # nywila
 
-> authentication project 
+> authentication project for web apps , nuxt.js and firebase
 
 ## Build Setup
 
